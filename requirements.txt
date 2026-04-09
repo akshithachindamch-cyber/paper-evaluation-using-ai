@@ -1,0 +1,22 @@
+# Core Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Database
+mysql-connector-python==8.3.0
+
+# OCR & Image Processing
+google-cloud-vision==3.7.2
+pdf2image==1.17.0
+Pillow==10.2.0
+
+# NLP & Similarity
+sentence-transformers==2.5.1
+scikit-learn==1.4.0
+numpy==1.26.4
+
+# Keyword Extraction
+nltk==3.8.1
+
+# Utilities
+python-dotenv==1.0.1
